@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+li {
+    color: blue;
+    list-style: none;
+}
+.logo {
+    background-color: red;
+    
+}
